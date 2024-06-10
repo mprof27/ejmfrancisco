@@ -9,7 +9,8 @@
 
 <p>
   <img alt="python" src="https://img.shields.io/badge/-Python-5881D8?style=flat-square&logo=python&logoColor=white" />
-  <img alt="C++" src="[https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat-square&logo=c%2B%2B](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)" />
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
   <br>
   <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
