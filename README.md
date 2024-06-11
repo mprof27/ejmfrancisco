@@ -19,7 +19,7 @@
   <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="mongoDB" src="https://img.shields.io/badge/mongoDB-47A248?stylee=flat-square&logo=MongoDB&logoColor=white">
   <img alt="linux" src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
-  <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"> 
+  <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white"> 
 </p>
 
 <!--
