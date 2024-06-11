@@ -1,7 +1,7 @@
-### ejmfrancisco
+# ejmfrancisco
 ## Hi 👋 I'm Ej Caliwag. Welcome to my Github!
 
-# 🔭 I’m currently working on an AI startup company as a Senior/Team Lead AI Software Engineer. 
+### 🔭 I’m currently working on an AI startup company as a Senior/Team Lead AI Software Engineer. 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunsour)](https://github.com/ejmfrancisco)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ejmfrancisco)
